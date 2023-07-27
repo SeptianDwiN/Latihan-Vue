@@ -5,7 +5,7 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
     <Navbar>
       <template #logo>
         <NavbarLogo link="" alt="Flowbite logo" image-url="https://png.pngtree.com/png-vector/20221128/ourmid/pngtree-s-logo-png-image_6483904.png">
-          Flowbite
+          <u>ʎo̾𝚢𝑜𝘴</u>
         </NavbarLogo>
       </template>
       <template #default="{isShowMenu}">

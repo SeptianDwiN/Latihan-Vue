@@ -105,12 +105,7 @@
         </h6>
         <p class="mb-4">
           <a href="#!" class="text-neutral-600 dark:text-neutral-200"
-            >Angular</a
-          >
-        </p>
-        <p class="mb-4">
-          <a href="#!" class="text-neutral-600 dark:text-neutral-200"
-            >React</a
+            >CSS</a
           >
         </p>
         <p class="mb-4">
@@ -120,7 +115,7 @@
         </p>
         <p>
           <a href="#!" class="text-neutral-600 dark:text-neutral-200"
-            >Laravel</a
+            >Java Script</a
           >
         </p>
       </div>

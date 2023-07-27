@@ -5,19 +5,23 @@ import { TheCard } from 'flowbite-vue'
     <br>
      <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><center><u>Kemeja</u></center></h5>
      <br>
-    <div class=" grid grid-cols-2 pl-12">
-  <the-card href="#"  variant="horizontal" img-src="https://sumeks.disway.id/upload/723d8f78ac10bbebc63d097d07c626ef.jpeg" img-alt="Desk">
+    <div class=" grid grid-cols-2 pl-12 ">
+  <the-card href="#"   variant="horizontal"  img-src="https://sumeks.disway.id/upload/723d8f78ac10bbebc63d097d07c626ef.jpeg" img-alt="Desk">
     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">11 Ragam Jenis Kemeja Flanel yang Kembali Diminati Anak Muda</h5>
     <p class="font-normal text-gray-700 dark:text-gray-400">
         Kemeja Flanel merupakan salah satu fashion yang sekarang kembali diminati anak muda baik pria maupun wanita.
         Terbuat dari material serat wol yang memiliki tekstur ringan dan nyaman digunakan berbagai aktivitas.
     </p>
+    <br>
+    <p class="mb-2 text-4x3 font-bold tracking-tight text-gray-800 dark:text-white">Rp.90.000</p>
   </the-card>
   <the-card href="#"  variant="horizontal" img-src="https://www.bikin.co/konveksi-baju/wp-content/uploads/2019/11/Kemeja-Kantor-Lengan-Panjang-500x500.jpg" img-alt="Desk">
     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Kemeja Lengan Panjang Polos</h5>
     <p class="font-normal text-gray-700 dark:text-gray-400">
         kemeja polos ini sering kali dipadukan dengan celana jeans atau chinos untuk nuansa casual yang lebih manly namun tetap rapih dan memiliki kesan smart look. Namun jika kamu ingin penampilan yang lebih santai, kamu bisa menjadikan kemeja polos ini sebagai outer dan kaos polos sebagai inner.
     </p>
+    <br>
+    <p class="mb-2 text-4x3 font-bold tracking-tight text-gray-800 dark:text-white">Rp.115.000</p>
   </the-card>
 </div>
 <br>
@@ -31,12 +35,16 @@ import { TheCard } from 'flowbite-vue'
     <p class="font-normal text-gray-700 dark:text-gray-400">
       Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
     </p>
+    <br>
+    <p class="mb-2 text-4x3 font-bold tracking-tight text-gray-800 dark:text-white">Rp.325.000</p>
   </the-card>
   <the-card href="#"  variant="horizontal" img-src="https://cdn.linkumkm.id/library/6/7/4/2/8/67428_840x576.jpg" img-alt="Desk">
     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Sepatu Adidas</h5>
     <p class="font-normal text-gray-700 dark:text-gray-400">
       Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
     </p>
+    <br>
+    <p class="mb-2 text-4x3 font-bold tracking-tight text-gray-800 dark:text-white">Rp.575.00</p>
   </the-card>
 </div>
 <br>
@@ -55,6 +63,8 @@ import { TheCard } from 'flowbite-vue'
     <p>- Machine wash cold with gentle cycle.</p>
     <p>- This pants is the right thing to wear for any occasions.</p>
     </p>
+    <br>
+    <p class="mb-2 text-4x3 font-bold tracking-tight text-gray-800 dark:text-white">Rp.210.000</p>
   </the-card>
   <the-card href="#"  variant="horizontal" img-src="https://cdn.arenaexperience.com/images/imagepro/imgpro_1685263645567264405.jpg" img-alt="Desk">
     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">RUTH BAGGY BLUE JEANS PANTS</h5>
@@ -67,6 +77,8 @@ import { TheCard } from 'flowbite-vue'
     <p>- Machine wash cold with gentle cycle.</p>
     <p>- This pants is the right thing to wear for any occasions.</p>
     </p>
+    <br>
+    <p class="mb-2 text-4x3 font-bold tracking-tight text-gray-800 dark:text-white">Rp.175.000</p>
   </the-card>
 </div>
 </template>
